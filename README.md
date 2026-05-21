@@ -26,6 +26,11 @@ MCP Server desenvolvido com Spring Boot e Spring AI utilizando a API pública do
 3. Executar aplicação
   * ./mvnw spring-boot:run
 
+
+### MCP Inspector rodando
+![img.png](src/Imagens/img.png)
+
+
 ## Servidor disponível em:
 
 * http://localhost:56789/mcp
@@ -57,7 +62,7 @@ Exemplo
 ![img.png](src/Imagens/serie_por_id.png)
 
 
-### 🌐 API utilizada
 
+### 🌐 API utilizada
 TVMaze API:
 https://api.tvmaze.com
