@@ -2,6 +2,19 @@ spring:
   application:
     name: tvmaze-mcp-server
 
+  ai:
+    mcp:
+      server:
+        name: tvmaze-mcp-server
+        version: 1.0.0
+        type: SYNC
+        protocol: STREAMABLE
+        annotation-scanner:
+          enabled: true
+
 tvmaze:
   api:
     base-url: https://api.tvmaze.com
+
+server:
+  port: 8080

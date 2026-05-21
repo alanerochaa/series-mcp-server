@@ -1,4 +1,6 @@
 package br.com.alane.tvmaze_mcp.dto.tvmaze;
 
-public class TvMazeRatingDto {
+public record TvMazeRatingDto(
+        Double average
+) {
 }

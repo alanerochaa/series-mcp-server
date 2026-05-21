@@ -1,4 +1,6 @@
 package br.com.alane.tvmaze_mcp.dto.tvmaze;
 
-public class TvMazeSearchResponse {
+public record TvMazeSearchResponse(
+        TvMazeShowDto show
+) {
 }

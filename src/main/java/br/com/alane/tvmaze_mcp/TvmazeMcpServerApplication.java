@@ -9,5 +9,4 @@ public class TvmazeMcpServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TvmazeMcpServerApplication.class, args);
 	}
-
 }
