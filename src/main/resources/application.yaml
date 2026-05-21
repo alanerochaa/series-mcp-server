@@ -17,4 +17,4 @@ tvmaze:
     base-url: https://api.tvmaze.com
 
 server:
-  port: 8080
+  port: 56789
