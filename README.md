@@ -30,6 +30,8 @@ MCP Server desenvolvido com Spring Boot e Spring AI utilizando a API pública do
 ### MCP Inspector rodando
 ![img.png](src/Imagens/img.png)
 
+### Servidor MCP iniciado
+![img.png](src/Imagens/mcp_server_running.png)
 
 ## Servidor disponível em:
 
