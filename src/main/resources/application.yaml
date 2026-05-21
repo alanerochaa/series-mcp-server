@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: tvmaze-mcp-server
+
+tvmaze:
+  api:
+    base-url: https://api.tvmaze.com
