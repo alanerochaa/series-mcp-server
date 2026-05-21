@@ -1,4 +1,4 @@
 package br.com.alane.tvmaze_mcp.client;
 
-public class WebClientConfig {
+public class TvMazeClient {
 }
